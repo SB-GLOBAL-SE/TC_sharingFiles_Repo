@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="LaunchSmartStore" key="{31917B36-D3EE-4542-A33E-D82621E99020}" path="LaunchSmartStore.tcKDTest" />
+		<child name="PlaceAnOrder" key="{C9209D6A-8420-47EA-8231-F3B001ABBA38}" path="PlaceAnOrder.tcKDTest" />
+	</children>
+</Root>
